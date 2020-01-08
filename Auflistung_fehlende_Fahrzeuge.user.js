@@ -10,7 +10,7 @@
 
 (function() {
     'use strict';
-    var missingVehicles = $("#missing_text").html().replace(': ', '<li>');
+    var missingVehicles = $("#missing_text").html().replace(': ', ':<li>');
     missingVehicles = missingVehicles.replace(/\, /g, '</li><li>');
     missingVehicles = missingVehicles.replace(/\./g, '</li>');
     missingVehicles = missingVehicles.replace('</li><li>SW 1000</li><li>SW 2000 oder Ähnliches)</li>', ', SW 1000, SW 2000 oder Ähnliches)');
