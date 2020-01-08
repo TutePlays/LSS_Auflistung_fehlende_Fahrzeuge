@@ -4,6 +4,11 @@
 // @description  Listet fehlende Fahrzeuge beim Einsatz übersichtlich als Liste auf
 // @author       TutePlays
 // @include      *://www.leitstellenspiel.de/missions/*
+// @include      *://www.missionchief.com/missions/*
+// @include      *://www.missionchief.co.uk/missions/*
+// @include      *://www.centro-de-mando.es/missons/*
+// @include      *://www.meldkamerspel.com/missions/*
+// @include      *://www.missionchief-australia.com/missions/*
 // @updateURL    https://github.com/TutePlays/LSS_Auflistung_fehlende_Fahrzeuge/raw/master/Auflistung_fehlende_Fahrzeuge.user.js
 // @grant        none
 // ==/UserScript==
