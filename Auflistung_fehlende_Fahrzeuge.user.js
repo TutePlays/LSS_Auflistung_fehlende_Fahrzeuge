@@ -3,10 +3,7 @@
 // @version      0.1
 // @description  Listet fehlende Fahrzeuge beim Einsatz übersichtlich als Liste auf
 // @author       TutePlays
-// @match        *leitstellenspiel.de/missions/*
-// @match        *missionchief.com/missions/*
-// @match        *meldkamerspel.com/missions/*
-// @match        *missionchief.co.uk/missions/*
+// @include      *://www.leitstellenspiel.de/missions/*
 // @updateURL    https://github.com/TutePlays/LSS_Auflistung_fehlende_Fahrzeuge/raw/master/Auflistung_fehlende_Fahrzeuge.user.js
 // @grant        none
 // ==/UserScript==
