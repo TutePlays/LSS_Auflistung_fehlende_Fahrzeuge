@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Auflistung fehlende Fahrzeuge
-// @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Listet fehlende Fahrzeuge beim Einsatz übersichtlich als Liste auf
 // @author       TutePlays
@@ -8,6 +7,7 @@
 // @match        *missionchief.com/missions/*
 // @match        *meldkamerspel.com/missions/*
 // @match        *missionchief.co.uk/missions/*
+// @updateURL    https://github.com/TutePlays/LSS_Auflistung_fehlende_Fahrzeuge/blob/raw/Auflistung_fehlende_Fahrzeuge.js
 // @grant        none
 // ==/UserScript==
 
